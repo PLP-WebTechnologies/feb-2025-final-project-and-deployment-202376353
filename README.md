@@ -14,7 +14,8 @@ Ecommerce Website: Implement a multi-page site with navigation.
 > - Include at least:
 > - A responsive design.
 > - JavaScript interactivity.
-> - A deployment link.
+> - A deployment link
+FIND Sino's Boutique: https://68206ae3c8b5488800e9044c--inspiring-dodol-ecc33c.netlify.app/
 
 ## Tasks
 
